@@ -1112,4 +1112,3 @@ TVBS欢乐,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=129
 FOX Sports,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=161
 FOX Sports 2,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=162
 FOX Movie,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=165
-耀才财经,http://v.exdnd.com/dl/xg.php?id=19
