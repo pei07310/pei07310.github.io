@@ -88,10 +88,10 @@
 *國家地理野生頻道 HD3,mitv://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
 
 好萊塢電影,#genre#
-《好萊塢電影》,http://125.227.210.37:47862/VideoInput/play.ts
+《好萊塢電影》,mitv://198.255.74.57:12196/5f0601e6000e2290b97929d38fe52ce5.ts
 *好萊塢電影1,http://t.gerss.cn/dl/htv.php?id=68
 *好莱坞电影,p5p://47.244.180.114:9906/5db94a0e000c946053e3f9ca114c5efa&link=am0708lgif
-好萊塢電影臺,mitv://198.255.74.57:12196/5f0601e6000e2290b97929d38fe52ce5.ts
+好萊塢電影臺,http://125.227.210.37:47862/VideoInput/play.ts
 *好莱坞电影1,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 *好莱坞电影2,mitv://198.255.74.57:12396/5e5020690009caca3d32a3469e5e4340.ts
 *好莱坞电影3,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
