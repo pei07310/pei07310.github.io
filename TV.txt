@@ -361,6 +361,27 @@ Star_World_衛視閤家歡,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb779078
 江苏卫视,http://125.210.152.18:9090/live/JSWSHD_H265.m3u8
 HBO,http://tx.pull.yximgs.com/live/twhbo_MTU5NDY3NDAwNg.flv?txSecret=59874af5750b4cf393e7d57c66a002ff&txTime=5F0D38D0
 动物星球,http://pullstream-ucan.speedws.com/live/78db168dc5334d98b04bfa732a68e3a4.flv
+江苏卫视蓝光,http://101.71.255.229:6610/zjhs/2/10028/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+江苏卫视高清,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225847/1.m3u8
+江苏卫视高清,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
+江苏卫视高清,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226869/1.m3u8
+江苏卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000152.m3u8
+江苏卫视,P2p://sdgdklwos.finetv.tv:9906/59fd117a00023abf0258c06b4ad62eae
+CINEMAX电影台,http://47.240.60.73/gzyx.php?id=hbogj
+卫视国际电影,http://47.240.60.73/gzyx.php?id=wsdy
+动物星球 HD,p2p://185.169.196.146:9906/59fd254500042de102a611e03cd83fa7.ts
+HBO Signature 原创巨献 HD,p2p://185.169.196.146:9906/59fd14fc0005019f026674e730ed03b5.ts
+CatchPlay HD,p2p://185.169.196.146:9906/59fd26e9000849d802ac7b8a43f34f6a.ts
+好萊塢電影 HD,p2p://185.169.196.146:9906/5a141b66000b4be65f90135822b40e43.ts
+龙华洋片 HD,p2p://185.169.196.146:9906/59fd07650001a79102315e34781149f3.ts
+江苏卫视HD,http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/jiangsuhd/1200/index.m3u8?ProgramID=&encrypt=
+动物星球,rtmp://pullstream-ucan.speedws.com/live/8fb944b775eb4594b952ce9a40265cda
+t好莱坞电影,http://154.90.1.188/bkplay.php?id=54
+t动物星球,http://154.90.1.188/bkplay.php?id=72
+
+
+
+
 
 
 198,#genre#
