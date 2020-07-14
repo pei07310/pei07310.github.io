@@ -40,6 +40,7 @@
 *江苏卫视 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000018/index.m3u8
 *江苏卫视,http://120.221.5.113:8089/PLTV/88888888/224/3221225923/index.m3u8
 
+
 動物星球,#genre#
 《動物星球》,mitv://198.255.74.57:12196/5f0601c1000b3e03b978988d7819a674.ts
 *动物星球,p5p://47.244.180.114:9906/5db9412e000050e153c14bae3a472ded&link=am0708lgif
@@ -264,8 +265,75 @@ Test,#genre#
 *CIBN好莱坞,http://v.iam7.top/iptv/cibn/?id=1108&code=ZongHe
 *歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 *Hot欧美影院限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
-
-
+江苏卫视HD,http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/jiangsuhd/1200/index.m3u8?ProgramID=&encrypt=
+tHBO,http://154.90.1.188/bkplay.php?id=116
+动物星球,rtmp://pullstream-ucan.speedws.com/live/8fb944b775eb4594b952ce9a40265cda
+t好莱坞电影,http://154.90.1.188/bkplay.php?id=54
+t动物星球,http://154.90.1.188/bkplay.php?id=72
+寰宇新闻台,https://pullstream-ucan.speedws.com/live/aaa1004zzz/playlist.m3u8
+寰宇新闻台湾台,https://pullstream-ucan.speedws.com/live/aaa1005zzz/playlist.m3u8
+SET三立都会台,https://pullstream-ucan.speedws.com/live/aaa1028zzz/playlist.m3u8
+年代MUCH HD,https://pullstream-ucan.speedws.com/live/aaa1029zzz/playlist.m3u8
+JET综合,https://pullstream-ucan.speedws.com/live/aaa1030zzz/playlist.m3u8
+纬来育乐HD,https://pullstream-ucan.speedws.com/live/aaa1032zzz/playlist.m3u8
+TVBS欢乐台HD,https://pullstream-ucan.speedws.com/live/aaa1033zzz/playlist.m3u8
+纬来戏剧HD,https://pullstream-ucan.speedws.com/live/aaa1035zzz/playlist.m3u8
+卫视电影台HD,https://pullstream-ucan.speedws.com/live/aaa1037zzz/playlist.m3u8
+FOX MOVIES HD,https://pullstream-ucan.speedws.com/live/aaa1038zzz/playlist.m3u8
+HBOHD,https://pullstream-ucan.speedws.com/live/aaa1050zzz/playlist.m3u8
+东森洋片HD,https://pullstream-ucan.speedws.com/live/aaa1051zzz/playlist.m3u8
+NATIONAL GEO,https://pullstream-ucan.speedws.com/live/aaa1052zzz/playlist.m3u8
+日本NHK,https://pullstream-ucan.speedws.com/live/aaa1053zzz/playlist.m3u8
+非凡商业,https://pullstream-ucan.speedws.com/live/aaa1054zzz/playlist.m3u8
+animal plante,https://pullstream-ucan.speedws.com/live/aaa1068zzz/playlist.m3u8
+中天新闻台,https://pullstream-ucan.speedws.com/live/9f5783c4cec9451ba8ffbeb19fbd8b74/playlist.m3u8
+东森幼幼,https://pullstream-ucan.speedws.com/live/c3a556a7ffa1480485d34039bacacb47/playlist.m3u8
+东森亚洲卫视,https://pullstream-ucan.speedws.com/live/13cd2650d4be44b3b84e2962efd4a57b/playlist.m3u8
+八大娱乐台HD,https://pullstream-ucan.speedws.com/live/9fd687902915418fa822391be8c50e6d/playlist.m3u8
+八大戏剧台HD,https://pullstream-ucan.speedws.com/live/c6dfe8ef684548058ca71ca6ab256a2d/playlist.m3u8
+Fashion TV,https://pullstream-ucan.speedws.com/live/95aff420745f4766af61a980a09e2a30/playlist.m3u8
+中天亚洲台,https://pullstream-ucan.speedws.com/live/9b4cf4e3ef384a3a988d844fe0b9ad4e/playlist.m3u8
+中天娱乐HD,https://pullstream-ucan.speedws.com/live/8780a411a13549cf98a747729ee1ecf1/playlist.m3u8
+高点综合HD,https://pullstream-ucan.speedws.com/live/4635b4274a8b47a8a471c5394ff3dcbc/playlist.m3u8
+Discovery探索,https://pullstream-ucan.speedws.com/live/ee1c078afffb463aaa432a6d0800ca12/playlist.m3u8
+Discovery科学,https://pullstream-ucan.speedws.com/live/c453cda983b94bccb37f4281e7ac58b8/playlist.m3u8
+Discovery Asia亚洲频道,https://pullstream-ucan.speedws.com/live/d83edd6e060c48fe8bce2bc4475ea3c4/playlist.m3u8
+ELEVEN SPORTS1,https://pullstream-ucan.speedws.com/live/0c796e6824c94a1dbb38cf7cb1a92b54/playlist.m3u8
+ELEVEN SPORTS2,https://pullstream-ucan.speedws.com/live/6719582e7dc043359d58a136183c2b9e/playlist.m3u8
+国兴卫视,https://pullstream-ucan.speedws.com/live/d0df76cc4f884e499d21952c8b54d970/playlist.m3u8
+龙祥时代,https://pullstream-ucan.speedws.com/live/5a88f44f5e834c3b9a840cbc70683709/playlist.m3u8
+Z频道,https://pullstream-ucan.speedws.com/live/958e3c727dc84542b08eef93b388f38a/playlist.m3u8
+TLC旅游生活频道,https://pullstream-ucan.speedws.com/live/ba7955801a8c4d829864982e14b60a7d/playlist.m3u8
+江苏卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+江苏卫视,http://112.17.40.140/PLTV/88888888/224/3221226414/index.m3u8
+江苏卫视,http://112.17.40.140/PLTV/88888888/224/3221226567/index.m3u8
+FOX MOVIES,https://pullstream-ucan.speedws.com/live/aaa1038zzz/playlist.m3u8
+HBO,https://pullstream-ucan.speedws.com/live/aaa1050zzz/playlist.m3u8
+江苏卫视,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEOTFrZHMlMjNpZCUzRGpzd3NoZA__#https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEOTFrZHMlMjNpZCUzRGpzd3M_
+动物星球,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEY2RudGVzdCUyM2lkJTNEMzk_
+CINEMAX電影,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9sb25nJTIzdGlkJTNEZmFzdCUyM2lkJTNEY2ltYXh2aQ__
+CINEMAX電影1,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9tbSUyM3RpZCUzRGZhc3QlMjNpZCUzRGNpbWF4dmk_
+东森洋片,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9hcyUyM3RpZCUzRGhhbyUyM2lkJTNEZHNiYW8_
+东森洋片1,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9odyUyM3RpZCUzRGFiYiUyM2lkJTNEZHN5YW5ncGlhbg__
+龙华洋片,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9hcyUyM3RpZCUzRGhhbyUyM2lkJTNEbGhiYW8_
+FOX动作,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9sb25nJTIzdGlkJTNEZmFzdCUyM2lkJTNEZm94ZHp0
+FOXMovies,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9sb25nJTIzdGlkJTNEZmFzdCUyM2lkJTNEZm94ZHk_
+FOXMovies1,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9sb25nJTIzdGlkJTNEZmFzdCUyM2lkJTNEZm94bW92aWU_
+好莱坞电影,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9sb25nJTIzdGlkJTNEZmFzdCUyM2lkJTNEaGx3bW92aWU_
+HBOHITS,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9hcyUyM3RpZCUzRGhhbyUyM2lkJTNEaGJvaGl0cw__
+HBOSignature,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9hcyUyM3RpZCUzRGhhbyUyM2lkJTNEaGJvc2ln
+CATCHPLAY,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl93cyUyM3RpZCUzRHNob3clMjNpZCUzRGNhdGNocGxheXR3
+江苏卫视,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9hYiUyM3RpZCUzRGd1JTIzaWQlM0RhZGpzd3M_
+国家地理野生,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9hcyUyM3RpZCUzRGhhbyUyM2lkJTNEZ3VveWU_
+动物星球,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9sb25nJTIzdGlkJTNEZmFzdCUyM2lkJTNEZHd4aW5ncWl1#https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9hcyUyM3RpZCUzRGhhbyUyM2lkJTNEZHd4aW5ncWl1
+FOXMOVIES,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9sb25nJTIzdGlkJTNEZmFzdCUyM2lkJTNERk9YTU9WSUVT
+FOXACTION,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9sb25nJTIzdGlkJTNEZmFzdCUyM2lkJTNERk9YQUNUSU9OTU9WSUVT
+NATGEOWILD,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9sb25nJTIzdGlkJTNEZmFzdCUyM2lkJTNETkFUR0VPV0lMRA__
+Animalplanet,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9sb25nJTIzdGlkJTNEZmFzdCUyM2lkJTNEQW5pbWFscGxhbmV0
+HITS,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9sb25nJTIzdGlkJTNEZmFzdCUyM2lkJTNESElUU2xvbmd0dg__
+HITSMOVIES,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9sb25nJTIzdGlkJTNEZmFzdCUyM2lkJTNESElUU01PVklFUw__
+FOX MOVIES,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGZveG1vdmll
+HBO,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGhibw__
 
 
 
