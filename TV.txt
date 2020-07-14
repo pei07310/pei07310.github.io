@@ -334,11 +334,33 @@ HITS,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9
 HITSMOVIES,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEbHR0dl9sb25nJTIzdGlkJTNEZmFzdCUyM2lkJTNESElUU01PVklFUw__
 FOX MOVIES,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGZveG1vdmll
 HBO,https://ez.wangweizhushou.com/lxtv.php?aing32365&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGhibw__
-
-
-
-
-
+江苏卫视高清,http://39.135.34.150:8080/000000001000/1000000001000004684/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004684&owchid=ystenlive&owsid=1106497909461243101&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR80rubnSCCYHmxBfxTMKdNm%2bh%2bLn%2bBGibQYrxMgSwIzfH44Sn0OHT9L7pQFHxSW%2fJ
+國家地理野生,p2p://fccsovh.pvbox.live:18912/5b1409170007d34265514bfb6f766515.ts
+動物星球,p2p://fccsovh.pvbox.live:18912/5b14096100006f33c3bac972d19faa1f.ts
+HBO,p2p://fccsovh.pvbox.live:18912/5b140969000be13c170c4d321395bcea.ts
+東森洋片,p2p://fccsovh.pvbox.live:18912/5b14092300021ad122881d3a37581383.ts
+好萊塢電影,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df52b0d3ac35af1134c.ts
+衛視洋片HD,p2p://fccsovh.pvbox.live:18912/5b14098f00030ea43c4eec53accc7f78.ts
+CINEMAX,p2p://fccsovh.pvbox.live:18912/5b14096000043ff90b1c4aae728ee869.ts
+龍華洋片,p2p://fccsovh.pvbox.live:18912/5b140917000c1e9b18cc343dccffbc94.ts
+HBO強檔,p2p://fccsovh.pvbox.live:18912/5b14096900084dd99e1d5bcc5ece9c24.ts
+HBO原創,p2p://fccsovh.pvbox.live:18912/5b14096a000a35a1031ce8879f0e06db.ts
+CATCHPLAY HD,p2p://fccsovh.pvbox.live:18912/5b1409db000126a9979ea17404d19ffe.ts
+FOX動作,p2p://fccsovh.pvbox.live:18912/5b140977000904d684ec8ac4fa561e17.ts
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+Js,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225887/1.m3u8
+Js1,http://60.255.149.251/tslive/c214_scc_20190618_wazeadpo_original_r10/c214_scc_20190618_wazeadpo_original_r10.m3u8
+Js2,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=001&Provider_id=&Pcontent_id=index.m3u8#http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000152.m3u8&t=hls
+動物星球,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
+Star_World_衛視閤家歡,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
+江苏卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+江苏卫视 3.5M1080,http://39.130.206.213:6410/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8 
+江苏卫视,http://ivi.bupt.edu.cn/hls/jshd.m3u8
+江苏卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=001&Provider_id=&Pcontent_id=index.m3u8
+江苏卫视,http://121.31.30.91:8081/ysten-business/live/hdjiangsustv/1.m3u8
+江苏卫视,http://125.210.152.18:9090/live/JSWSHD_H265.m3u8
+HBO,http://tx.pull.yximgs.com/live/twhbo_MTU5NDY3NDAwNg.flv?txSecret=59874af5750b4cf393e7d57c66a002ff&txTime=5F0D38D0
+动物星球,http://pullstream-ucan.speedws.com/live/78db168dc5334d98b04bfa732a68e3a4.flv
 
 
 198,#genre#
