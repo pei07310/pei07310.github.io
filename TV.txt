@@ -861,6 +861,12 @@ HBO SIGNATURE WEST,mitv://fccseuro.pvbox.live:18912/5b593bbb0008513384b7fee1ab8f
 AXN,mitv://198.255.74.57:12196/5f0601b900099f1cb97878e3940493ec.ts
 Warner Bros HD,mitv://198.255.74.57:12196/5f0601bd00088849b978883c792bf324.ts
 CatchPlay HD,mitv://198.255.74.57:12196/5f0601bd0006092db97887982c7f7764.ts
+江苏卫视 蓝光,http://117.148.187.37/PLTV/88888888/224/3221226140/index.m3u8
+江苏卫视超清,http://112.17.40.140/PLTV/88888888/224/3221226140/index.m3u8
+KIX,http://210.210.155.35/uq2663/h/h07/01.m3u8
+HBO hit,http://58.215.133.185:5021/live/238?pid=HHQEGROJIVJW@5082QPD&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+FOX 电影频道,http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+
 
 
 
