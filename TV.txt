@@ -403,7 +403,10 @@ Discovery亚洲,mitv://147.135.39.171:9906/5bb70400000a21febe7a8775512a55e3.ts
 HBO HD,mitv://147.135.39.171:9906/5db2ccec0009a7ecfd21700779821350.ts
 HBO Signature,mitv://147.135.39.171:9906/5d9a2b28000713fb9cb3d8cc0d3d4a0b.ts
 HBO Hits,mitv://147.135.39.171:9906/5d9a2b280005611b9cb3d85f1f6a6f75.ts
-
+地理野生,http://nb.iptv88888.xyz/hls/geowild.m3u8
+龙华偶像,http://nb.iptv88888.xyz/hls/longhuaox.m3u8
+龙华电影,http://nb.iptv88888.xyz/hls/longhuamovie.m3u8
+龙华洋片,http://nb.iptv88888.xyz/hls/longhuayangpian.m3u8
 
 
 
