@@ -109,7 +109,6 @@
 *好萊塢電影2,P2p://51.79.41.138:18912/5c7249e2000125281d5820ff23a165d1
 *好萊塢電影3,p2p://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
 *好萊塢電影4,mitv://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
-*好萊塢,http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 好萊塢電影5,http://tv.kksyw.top/tv_157/gat/hatv.php?id=68
 *好萊塢電影6,mitv://51.79.41.138:18912/5b1409f3000c1df53f7ba0012d829cba.ts
 *好莱坞电影[1280*720],http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
@@ -119,7 +118,7 @@
 *好萊塢電影台(HD),http://58.99.33.2:1935/liveedge2/foNmEJqW_68_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015
 *好萊塢電影臺1,mitv://198.255.74.57:12196/5efcb9c1000d503e95375915d5436bdd.ts
 *好萊塢电影8,http://t.gerss.cn/dl/htv.php?id=68
-好萊塢电影9,192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+好萊塢电影9,http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 好萊塢电影10,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=66
 
 FOX MOVIES HD,#genre#
